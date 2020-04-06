@@ -9,4 +9,4 @@ Here we provide the scripts and data used to produce the following:
 
 ![NO2 Image](AustriaNO2.png)
 
-![PM2.5 Image](AustriaPM2.5.png)
+![PM2.5 Image](AustriaPM25.png)
