@@ -7,5 +7,5 @@ For this analysis we used the historical AQ data from the EEA - http://discomap.
 
 Here we provide the scripts and data used for this example:
 
-[NO2 Image](AustriaNO2.png)
+![NO2 Image](AustriaNO2.png)
 
